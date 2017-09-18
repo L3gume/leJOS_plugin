@@ -2,7 +2,7 @@
 
 **Author:** Miguel Cordova, miguelcordovadev@gmail.com
 
-**Original repo:** https://github.com/miguelcordovam/leJOS\_plugin
+**Original repo:** https://github.com/miguelcordovam/leJOS_plugin
 
 **License:** Refer the the original repo
 
